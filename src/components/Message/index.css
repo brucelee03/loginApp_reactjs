@@ -1,0 +1,14 @@
+@media (max-width: 576px) {
+  .message {
+    color: #ffffff;
+    font-size: 34px;
+    text-align: center;
+  }
+}
+@media (min-width: 767px) {
+  .message {
+    color: #ffffff;
+    font-size: 65px;
+    text-align: center;
+  }
+}
